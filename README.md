@@ -6,7 +6,7 @@ La precedente versione, "_Studio della filogenesi di molecole di RNA attraverso 
 
 L'applicazione serve per generare immagini CGR da file fasta contenenti sequenze di RNA
 e poi classificarle tramite una rete neurale convoluzionale(CNN).
-Il progetto è composto di 4 package:
+Il progetto è composto da 4 packages:
 - cgr: contiene i file relativi alla generazione delle immagini CGR
 - cnn: contiene i file relativi alla CNN e alla gestione del dataset
 - file_handling: contiene tutti i file relativi alla gestione dei file csv e
