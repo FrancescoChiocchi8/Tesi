@@ -1,0 +1,164 @@
+Organism name,Accession number,Length,Number of decoupled nucleotides,Number of weak bonds,Is Pseudoknotted,Pseudoknot order,Rna Type,Genus,Core,Core plus,Shape,Is Validated,Reference database,Description,Benchmark ID,Reference,Taxonomy.GTDB.Classified,Taxonomy.GTDB.domain,Taxonomy.GTDB.phylum,Taxonomy.GTDB.class,Taxonomy.GTDB.order,Taxonomy.GTDB.family,Taxonomy.GTDB.genus
+Xanthomonas arboricola pv. pruni,AF035441,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_560,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas
+Fusobacterium necrophorum subsp. necrophorum,AF363751,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_941,--,Yes,Bacteria,Fusobacteriota,Fusobacteriia,Fusobacteriales,Fusobacteriaceae,Fusobacterium_C
+Xanthomonas arboricola pv. pruni,AJ936965,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_1569,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas
+Bartonella quintana str. Toulouse,BX897700,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_3153,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales_A,Rhizobiaceae_A,Bartonella
+Francisella tularensis subsp. holarctica OSU18,CP000437,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_3663,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Francisellales,Francisellaceae,Francisella
+Francisella tularensis subsp. holarctica OSU18,CP000437,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_3664,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Francisellales,Francisellaceae,Francisella
+Francisella tularensis subsp. holarctica OSU18,CP000437,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_3665,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Francisellales,Francisellaceae,Francisella
+Bacillus anthracis str. Sterne,AE017225,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_4786,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus anthracis str. Sterne,AE017225,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_4787,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus anthracis str. Sterne,AE017225,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_4788,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus anthracis str. Sterne,AE017225,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_4789,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus anthracis str. Sterne,AE017225,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_4790,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Yersinia pseudotuberculosis,AJ009592,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_4849,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Yersinia
+Yersinia pseudotuberculosis,AJ009593,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_4850,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Yersinia
+Symbiobacterium thermophilum IAM 14863,AP006840,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_4982,--,Yes,Bacteria,Firmicutes_E,Symbiobacteriia,Symbiobacteriales,Symbiobacteriaceae,Symbiobacterium
+Symbiobacterium thermophilum IAM 14863,AP006840,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_4983,--,Yes,Bacteria,Firmicutes_E,Symbiobacteriia,Symbiobacteriales,Symbiobacteriaceae,Symbiobacterium
+Symbiobacterium thermophilum IAM 14863,AP006840,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_4984,--,Yes,Bacteria,Firmicutes_E,Symbiobacteriia,Symbiobacteriales,Symbiobacteriaceae,Symbiobacterium
+Bacillus cereus E33L,CP000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_5171,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus cereus E33L,CP000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_5172,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus cereus E33L,CP000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_5173,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus cereus E33L,CP000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_5174,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus cereus E33L,CP000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_5175,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Francisella tularensis subsp. holarctica OSU18,CP000437,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_5435,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Francisellales,Francisellaceae,Francisella
+Bacillus thuringiensis str. Al Hakam,CP000485,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_5483,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus thuringiensis str. Al Hakam,CP000485,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_5484,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus thuringiensis str. Al Hakam,CP000485,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_5485,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus thuringiensis str. Al Hakam,CP000485,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_5486,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus thuringiensis str. Al Hakam,CP000485,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_5487,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Clostridium tetani E88,AE015927,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_5981,--,Yes,Bacteria,Firmicutes_A,Clostridia,Clostridiales,Clostridiaceae,Clostridium_G
+Lactobacillus plantarum WCFS1,AL935256,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_6188,--,Yes,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactiplantibacillus
+Lactobacillus plantarum WCFS1,AL935258,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_6189,--,Yes,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactiplantibacillus
+Pelodictyon luteolum DSM 273,CP000096,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_6651,--,Yes,Bacteria,Bacteroidota,Chlorobia,Chlorobiales,Chlorobiaceae,Chlorobium
+Mycobacterium avium 104,CP000479,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_6884,--,Yes,Bacteria,Actinobacteriota,Actinomycetia,Mycobacteriales,Mycobacteriaceae,Mycobacterium
+Acidothermus cellulolyticus 11B,CP000481,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_6886,--,Yes,Bacteria,Actinobacteriota,Actinomycetia,Acidothermales,Acidothermaceae,Acidothermus
+Mycoplasma mycoides,X03154,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_7185,--,Yes,Bacteria,Firmicutes,Bacilli,Mycoplasmatales,Mycoplasmataceae,Mycoplasma
+Nocardia farcinica IFM 10152,AP006618,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_7442,--,Yes,Bacteria,Actinobacteriota,Actinomycetia,Mycobacteriales,Mycobacteriaceae,Nocardia
+Symbiobacterium thermophilum IAM 14863,AP006840,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_7448,--,Yes,Bacteria,Firmicutes_E,Symbiobacteriia,Symbiobacteriales,Symbiobacteriaceae,Symbiobacterium
+Symbiobacterium thermophilum IAM 14863,AP006840,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_7449,--,Yes,Bacteria,Firmicutes_E,Symbiobacteriia,Symbiobacteriales,Symbiobacteriaceae,Symbiobacterium
+Geobacter sulfurreducens PCA,AE017180,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_8251,--,Yes,Bacteria,Desulfobacterota,Desulfuromonadia,Geobacterales,Geobacteraceae,Geobacter
+Bacillus anthracis str. Sterne,AE017225,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_8273,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus anthracis str. Sterne,AE017225,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_8278,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus anthracis str. Sterne,AE017225,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_8279,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus cereus E33L,CP000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_9038,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus cereus E33L,CP000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_9043,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus cereus E33L,CP000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_9044,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Pelobacter carbinolicus DSM 2380,CP000142,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_9179,--,Yes,Bacteria,Desulfobacterota,Desulfuromonadia,Desulfuromonadales,Syntrophotaleaceae,Syntrophotalea
+Pelobacter carbinolicus DSM 2380,CP000142,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_9180,--,Yes,Bacteria,Desulfobacterota,Desulfuromonadia,Desulfuromonadales,Syntrophotaleaceae,Syntrophotalea
+Geobacter metallireducens GS-15,CP000148,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_9181,--,Yes,Bacteria,Desulfobacterota,Desulfuromonadia,Geobacterales,Geobacteraceae,Geobacter
+Salinibacter ruber DSM 13855,CP000159,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_9191,--,Yes,Bacteria,Bacteroidota,Rhodothermia,Rhodothermales,Salinibacteraceae,Salinibacter
+Cytophaga hutchinsonii ATCC 33406,CP000383,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_9318,--,Yes,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cytophagaceae,Cytophaga
+Cytophaga hutchinsonii ATCC 33406,CP000383,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_9319,--,Yes,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cytophagaceae,Cytophaga
+Syntrophobacter fumaroxidans MPOB,CP000478,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_9433,--,Yes,Bacteria,Desulfobacterota,Syntrophobacteria,Syntrophobacterales,Syntrophobacteraceae,Syntrophobacter
+Pelobacter propionicus DSM 2379,CP000482,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_9441,--,Yes,Bacteria,Desulfobacterota,Desulfuromonadia,Geobacterales,Pseudopelobacteraceae,Pseudopelobacter
+Bacillus thuringiensis str. Al Hakam,CP000485,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_9442,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus thuringiensis str. Al Hakam,CP000485,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_9443,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus thuringiensis str. Al Hakam,CP000485,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_9448,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Leifsonia xyli subsp. xyli str. CTCB07,AE016822,78,34,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_B_10100,--,Yes,Bacteria,Actinobacteriota,Actinomycetia,Actinomycetales,Microbacteriaceae,Leifsonia
+Bacillus anthracis str. Sterne,AE017225,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_10144,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus anthracis str. Sterne,AE017225,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_10145,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus anthracis str. Sterne,AE017225,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_10146,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus anthracis str. Sterne,AE017225,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_10147,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus cereus E33L,CP000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_10460,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus cereus E33L,CP000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_10461,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus cereus E33L,CP000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_10462,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus cereus E33L,CP000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_10463,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus thuringiensis str. Al Hakam,CP000485,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_10756,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus thuringiensis str. Al Hakam,CP000485,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_10757,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus thuringiensis str. Al Hakam,CP000485,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_10758,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus thuringiensis str. Al Hakam,CP000485,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_10759,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus anthracis str. Sterne,AE017225,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_11499,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus anthracis str. Sterne,AE017225,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_11501,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus anthracis str. Sterne,AE017225,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_11504,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus cereus E33L,CP000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_12352,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus cereus E33L,CP000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_12354,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus cereus E33L,CP000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_12357,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus thuringiensis str. Al Hakam,CP000485,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_13000,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus thuringiensis str. Al Hakam,CP000485,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_13002,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus thuringiensis str. Al Hakam,CP000485,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_13005,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus thuringiensis str. Al Hakam,CP000485,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_13006,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Escherichia coli,M29107,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_13406,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia
+Campylobacter jejuni,Y17167,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_13653,--,Yes,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Campylobacteraceae,Campylobacter_D
+Francisella tularensis subsp. holarctica OSU18,CP000437,78,34,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_B_14981,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Francisellales,Francisellaceae,Francisella
+Acinetobacter genomosp. 13,U60281,78,34,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_B_15486,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+Bradyrhizobium elkanii,AB100744,78,34,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_B_15539,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium elkanii,AB100745,78,34,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_B_15540,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Acinetobacter baumannii,U60279,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_15654,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+Acinetobacter calcoaceticus,U60278,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_15675,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter
+Candidatus Phytoplasma ziziphi,AF305240,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_16271,--,Yes,Bacteria,Firmicutes,Bacilli,Acholeplasmatales,Acholeplasmataceae,Phytoplasma
+Bradyrhizobium denitrificans,AF338168,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_16308,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bacillus thuringiensis,AJ420059,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_16863,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+uncultured Acidobacteria bacterium,AY281352,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17423,--,Yes,Bacteria,Acidobacteriota,Acidobacteriae,Acidobacteriales,Koribacteraceae,TOLSYN
+Bradyrhizobium japonicum,AY386713,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17470,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium yuanmingense,AY386734,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17478,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Rhizobium leguminosarum bv. viciae,AY491944,78,34,44,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_17508,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium
+Rhizobium leguminosarum bv. viciae,AY491945,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17509,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium
+Rhizobium leguminosarum bv. viciae,AY491946,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17510,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium
+Rhizobium leguminosarum bv. viciae,AY491947,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17511,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium
+Rhizobium leguminosarum bv. viciae,AY491948,78,34,44,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_17512,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium
+Rhizobium leguminosarum bv. viciae,AY491949,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17513,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium
+Rhizobium leguminosarum bv. viciae,AY491951,78,34,44,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_17514,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium
+Rhizobium leguminosarum bv. viciae,AY491952,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17515,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium
+Rhizobium leguminosarum bv. viciae,AY491953,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17516,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium
+Rhizobium leguminosarum bv. viciae,AY491954,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17517,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium
+Rhizobium leguminosarum bv. viciae,AY491955,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17518,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium
+Rhizobium leguminosarum bv. viciae,AY491956,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17519,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium
+Rhizobium leguminosarum bv. viciae,AY491957,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17520,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium
+Rhizobium leguminosarum bv. phaseoli,AY491958,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17521,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium
+Rhizobium leguminosarum bv. viciae,AY491959,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17522,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium
+Rhizobium leguminosarum bv. viciae,AY491960,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17523,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium
+Rhizobium leguminosarum bv. viciae,AY491961,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17524,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium
+Rhizobium leguminosarum bv. viciae,AY491962,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17525,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium
+Rhizobium leguminosarum bv. viciae,AY491963,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17526,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium
+Rhizobium leguminosarum bv. viciae,AY491964,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17527,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium
+Rhizobium tropici,AY491966,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17529,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Rhizobium
+Edwardsiella ictaluri,AY706745,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17728,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Edwardsiella
+Edwardsiella tarda,AY706746,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17729,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Edwardsiella
+Edwardsiella tarda,AY706747,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17730,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Edwardsiella
+Edwardsiella tarda,AY706748,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17731,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Edwardsiella
+Anaeromyxobacter dehalogenans 2CP-C,CP000251,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18992,--,Yes,Bacteria,Myxococcota,Myxococcia,Myxococcales,Anaeromyxobacteraceae,Anaeromyxobacter
+Anaeromyxobacter dehalogenans 2CP-C,CP000251,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18993,--,Yes,Bacteria,Myxococcota,Myxococcia,Myxococcales,Anaeromyxobacteraceae,Anaeromyxobacter
+Thermus thermophilus,M25628,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_19959,--,Yes,Bacteria,Deinococcota,Deinococci,Deinococcales,Thermaceae,Thermus
+Pseudomonas aeruginosa,X06693,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_20003,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Acidithiobacillus ferrooxidans,X07395,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_20004,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Acidithiobacillales,Acidithiobacillaceae,Acidithiobacillus
+Symbiobacterium thermophilum IAM 14863,AP006840,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_20708,--,Yes,Bacteria,Firmicutes_E,Symbiobacteriia,Symbiobacteriales,Symbiobacteriaceae,Symbiobacterium
+Bartonella quintana str. Toulouse,BX897700,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_20996,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales_A,Rhizobiaceae_A,Bartonella
+Selenomonas ruminantium,AB100500,78,34,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_B_22002,--,Yes,Bacteria,Firmicutes_C,Negativicutes,Selenomonadales,Selenomonadaceae,Selenomonas_A
+Selenomonas ruminantium,AB100500,78,34,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_B_22003,--,Yes,Bacteria,Firmicutes_C,Negativicutes,Selenomonadales,Selenomonadaceae,Selenomonas_A
+Bacillus anthracis str. Ames,AE016879,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_22217,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Bacillus anthracis str. 'Ames Ancestor',AE017334,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_22282,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Helicobacter acinonychis str. Sheeba,AM260522,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_22527,--,Yes,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Helicobacteraceae,Helicobacter
+Helicobacter pylori HPAG1,CP000241,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_23060,--,Yes,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Helicobacteraceae,Helicobacter
+Photobacterium leiognathi,X52969,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_23737,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Vibrionaceae,Photobacterium
+Thermotoga maritima,Z11839,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_23765,--,Yes,Bacteria,Thermotogota,Thermotogae,Thermotogales,Thermotogaceae,Thermotoga
+Bartonella quintana str. Toulouse,BX897700,78,34,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_B_29991,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales_A,Rhizobiaceae_A,Bartonella
+Francisella tularensis subsp. holarctica OSU18,CP000437,78,34,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_B_30194,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Francisellales,Francisellaceae,Francisella
+Klebsiella pneumoniae,DQ643993,78,34,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_B_31075,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Klebsiella
+Shigella flexneri 2a str. 301,AE005674,78,34,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_B_31510,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia
+Sinorhizobium meliloti,AJ698943,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_31743,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Sinorhizobium
+Bacillus subtilis,M87888,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_32017,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae,Bacillus
+Rhodopseudomonas palustris CGA009,BX572601,78,34,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_B_32055,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Rhodopseudomonas
+Thermobifida fusca YX,CP000088,78,34,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_B_32154,--,Yes,Bacteria,Actinobacteriota,Actinomycetia,Streptosporangiales,Streptosporangiaceae,Thermobifida
+Nitrobacter winogradskyi Nb-255,CP000115,78,34,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_B_32192,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Nitrobacter
+Carboxydothermus hydrogenoformans Z-2901,CP000141,78,34,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_B_32211,--,Yes,Bacteria,Firmicutes_B,Z-2901,Carboxydothermales,Carboxydothermaceae,Carboxydothermus
+Rhodobacter sphaeroides 2.4.1,CP000143,78,34,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_B_32218,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Cereibacter_A
+Geobacter metallireducens GS-15,CP000148,78,34,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_B_32219,--,Yes,Bacteria,Desulfobacterota,Desulfuromonadia,Geobacterales,Geobacteraceae,Geobacter
+Hyphomonas neptunium ATCC 15444,CP000158,78,34,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_B_32234,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Hyphomonadaceae,Hyphomonas
+Moorella thermoacetica ATCC 39073,CP000232,78,34,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_B_32239,--,Yes,Bacteria,Firmicutes_B,Moorellia,Moorellales,Moorellaceae,Moorella
+Moorella thermoacetica ATCC 39073,CP000232,78,34,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_B_32240,--,Yes,Bacteria,Firmicutes_B,Moorellia,Moorellales,Moorellaceae,Moorella
+Helicobacter pylori HPAG1,CP000241,78,34,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_B_32258,--,Yes,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Helicobacteraceae,Helicobacter
+Helicobacter pylori HPAG1,CP000241,78,34,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_B_32259,--,Yes,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Helicobacteraceae,Helicobacter
+Cytophaga hutchinsonii ATCC 33406,CP000383,78,34,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_B_32358,--,Yes,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cytophagaceae,Cytophaga
+Cytophaga hutchinsonii ATCC 33406,CP000383,78,34,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_B_32359,--,Yes,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cytophagaceae,Cytophaga
+Campylobacter jejuni subsp. jejuni 81-176,CP000538,78,34,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_B_32506,--,Yes,Bacteria,Campylobacterota,Campylobacteria,Campylobacterales,Campylobacteraceae,Campylobacter_D
+Methylibium petroleiphilum PM1,CP000556,78,34,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_B_32528,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,Methylibium
+Bacteroides fragilis NCTC 9343,CR626927,78,34,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_B_32548,--,Yes,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides
+Bacteroides fragilis NCTC 9343,CR626927,78,34,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_B_32550,--,Yes,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides
+Bacteroides fragilis NCTC 9343,CR626927,78,34,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_B_32551,--,Yes,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides
+Gramella forsetii KT0803,CU207366,78,34,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_B_32591,--,Yes,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Gramella
+Gramella forsetii KT0803,CU207366,78,34,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_B_32593,--,Yes,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Gramella
+Mycoplasma pneumoniae,L15234,78,34,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_B_32671,--,Yes,Bacteria,Firmicutes,Bacilli,Mycoplasmatales,Mycoplasmoidaceae,Mycoplasmoides
+Aeromonas hydrophila,X12977,78,34,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_B_32778,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Aeromonadaceae,Aeromonas
+Bartonella quintana str. Toulouse,BX897700,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_33196,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales_A,Rhizobiaceae_A,Bartonella
+Francisella tularensis subsp. holarctica OSU18,CP000437,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_33358,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Francisellales,Francisellaceae,Francisella

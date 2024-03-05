@@ -1,0 +1,2 @@
+*.sif filter=lfs diff=lfs merge=lfs -text
+Tesi.sif filter=lfs diff=lfs merge=lfs -text

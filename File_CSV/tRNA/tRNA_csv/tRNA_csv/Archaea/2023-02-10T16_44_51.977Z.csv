@@ -1,0 +1,566 @@
+Organism name,Accession number,Length,Number of decoupled nucleotides,Number of weak bonds,Is Pseudoknotted,Pseudoknot order,Rna Type,Genus,Core,Core plus,Shape,Is Validated,Reference database,Description,Benchmark ID,Reference,Taxonomy.GTDB.Classified,Taxonomy.GTDB.domain,Taxonomy.GTDB.phylum,Taxonomy.GTDB.class,Taxonomy.GTDB.order,Taxonomy.GTDB.family,Taxonomy.GTDB.genus
+Halorubrum sodomense,AB003404,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Halorubrum
+Halorubrum saccharovorum,AB003405,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_11,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Halorubrum
+Halorubrum lacusprofundi ATCC 49239,AB003406,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_12,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Halorubrum
+Natronomonas pharaonis DSM 2160,AB003409,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_15,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas
+Natronobacterium gregoryi,AB003410,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_16,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Natrialbaceae,Natronobacterium
+Halorubrum vacuolatum,AB003411,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_17,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Halorubrum
+Haloferax volcanii,K02507,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_224,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Pyrobaculum aerophilum,AE009773,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_225,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermoproteales,Thermoproteaceae,Pyrobaculum
+Archaeoglobus fulgidus DSM 4304,AE000782,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_238,--,Yes,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus
+Archaeoglobus fulgidus DSM 4304,AE000782,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_239,--,Yes,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus
+Archaeoglobus fulgidus DSM 4304,AE000782,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_240,--,Yes,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus
+Methanosarcina mazei Go1,AE008384,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_289,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina mazei Go1,AE008384,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_290,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina mazei Go1,AE008384,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_291,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Pyrobaculum aerophilum str. IM2,AE009773,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_310,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermoproteales,Thermoproteaceae,Pyrobaculum
+Pyrobaculum aerophilum str. IM2,AE009910,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_311,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermoproteales,Thermoproteaceae,Pyrobaculum
+Pyrococcus furiosus DSM 3638,AE010139,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_320,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus furiosus DSM 3638,AE010200,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_321,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus furiosus DSM 3638,AE010209,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_322,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Methanopyrus kandleri AV19,AE010305,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_324,--,Yes,Archaea,Methanobacteriota_A,Methanopyri,Methanopyrales,Methanopyraceae,Methanopyrus
+Methanopyrus kandleri AV19,AE010344,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_325,--,Yes,Archaea,Methanobacteriota_A,Methanopyri,Methanopyrales,Methanopyraceae,Methanopyrus
+Haloferax volcanii,K02506,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_1295,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Pyrococcus abyssi GE5,AJ248283,78,34,44,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_A_1324,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus abyssi GE5,AJ248286,77,33,44,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_A_1325,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus abyssi GE5,AJ248287,78,34,44,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_A_1326,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Haloquadratum walsbyi DSM 16790,AM180088,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_1658,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Haloquadratum walsbyi DSM 16790,AM180088,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_1659,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Haloquadratum walsbyi DSM 16790,AM180088,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_1660,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Haloquadratum walsbyi DSM 16790,AM180088,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_1661,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Thermococcus kodakarensis KOD1,AP006878,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_1770,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus
+Thermococcus kodakarensis KOD1,AP006878,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_1771,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus
+Thermococcus kodakarensis KOD1,AP006878,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_1772,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus
+Archaeoglobus fulgidus,M19340,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_1847,--,Yes,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus
+Archaeoglobus fulgidus,AE000965,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_1848,--,Yes,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus
+Haloferax volcanii,K02508,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_1849,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Methanospirillum hungatei,M19342,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_1853,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Methanothermobacter thermautotrophicus,AE000940,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_1854,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanothermobacteraceae,Methanothermobacter
+Pyrobaculum aerophilum,AE009773,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_1856,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermoproteales,Thermoproteaceae,Pyrobaculum
+Haloarcula marismortui ATCC 43049,AY596297,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_2305,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Haloarcula marismortui ATCC 43049,AY596297,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_2306,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Haloarcula marismortui ATCC 43049,AY596297,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_2307,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Pyrococcus horikoshii OT3,BA000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_2993,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus horikoshii OT3,BA000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_2994,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus horikoshii OT3,BA000001,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_2995,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Aeropyrum pernix K1,BA000002,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_2996,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Acidilobaceae,Aeropyrum
+Aeropyrum pernix K1,BA000002,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_2997,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Acidilobaceae,Aeropyrum
+Aeropyrum pernix K1,BA000002,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_2998,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Acidilobaceae,Aeropyrum
+Thermoplasma volcanium GSS1,BA000011,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3012,--,Yes,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Thermoplasma
+Thermoplasma volcanium GSS1,BA000011,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3013,--,Yes,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Thermoplasma
+Thermoplasma volcanium GSS1,BA000011,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3014,--,Yes,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Thermoplasma
+uncultured archaeon,BX649197,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3145,--,Yes,Archaea,Nanoarchaeota,Nanoarchaeia,Woesearchaeales,CAIVOO01,CAIVED01
+Methanococcus maripaludis S2,BX957219,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3167,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanococcaceae,Methanococcus
+Methanococcus maripaludis S2,BX957222,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3168,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanococcaceae,Methanococcus
+Sulfolobus acidocaldarius DSM 639,CP000077,71,31,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3286,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Sulfolobaceae,Sulfolobus
+Sulfolobus acidocaldarius DSM 639,CP000077,71,31,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3287,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Sulfolobaceae,Sulfolobus
+Methanosarcina barkeri str. Fusaro,CP000099,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3338,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina barkeri str. Fusaro,CP000099,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3339,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina barkeri str. Fusaro,CP000099,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3340,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosphaera stadtmanae DSM 3091,CP000102,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3341,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera
+Methanosphaera stadtmanae DSM 3091,CP000102,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3342,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera
+Methanosphaera stadtmanae DSM 3091,CP000102,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3343,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera
+Methanosphaera stadtmanae DSM 3091,CP000102,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3344,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera
+Methanospirillum hungatei JF-1,CP000254,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3477,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Methanospirillum hungatei JF-1,CP000254,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3478,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Methanospirillum hungatei JF-1,CP000254,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3479,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Methanospirillum hungatei JF-1,CP000254,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3480,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Methanospirillum hungatei JF-1,CP000254,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3481,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Methanospirillum hungatei JF-1,CP000254,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3482,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Methanococcoides burtonii DSM 6242,CP000300,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3526,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides
+Methanococcoides burtonii DSM 6242,CP000300,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3527,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides
+Methanococcoides burtonii DSM 6242,CP000300,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3528,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides
+Methanococcoides burtonii DSM 6242,CP000300,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3529,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides
+Methanococcoides burtonii DSM 6242,CP000300,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3530,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides
+Hyperthermus butylicus DSM 5456,CP000493,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3772,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Pyrodictiaceae,Hyperthermus
+Hyperthermus butylicus DSM 5456,CP000493,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3773,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Pyrodictiaceae,Hyperthermus
+Hyperthermus butylicus DSM 5456,CP000493,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3774,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Pyrodictiaceae,Hyperthermus
+Pyrobaculum islandicum DSM 4184,CP000504,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3780,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermoproteales,Thermoproteaceae,Pyrobaculum
+Pyrobaculum islandicum DSM 4184,CP000504,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3781,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermoproteales,Thermoproteaceae,Pyrobaculum
+Methanocorpusculum labreanum Z,CP000559,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3856,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanocorpusculaceae,Methanocorpusculum
+Methanocorpusculum labreanum Z,CP000559,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3857,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanocorpusculaceae,Methanocorpusculum
+Methanocorpusculum labreanum Z,CP000559,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3858,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanocorpusculaceae,Methanocorpusculum
+Methanocorpusculum labreanum Z,CP000559,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3859,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanocorpusculaceae,Methanocorpusculum
+Methanocorpusculum labreanum Z,CP000559,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3860,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanocorpusculaceae,Methanocorpusculum
+uncultured archaeon,CR626858,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3891,--,Yes,Archaea,Nanoarchaeota,Nanoarchaeia,Woesearchaeales,CAIVOO01,CAIVED01
+Natronomonas pharaonis DSM 2160,CR936257,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3908,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas
+Natronomonas pharaonis DSM 2160,CR936257,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3909,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas
+Natronomonas pharaonis DSM 2160,CR936257,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_3910,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas
+uncultured archaeon,DQ186680,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_4063,--,Yes,Archaea,Nanoarchaeota,Nanoarchaeia,Woesearchaeales,CAIVOO01,CAIVED01
+uncultured archaeon,DQ186681,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_4064,--,Yes,Archaea,Nanoarchaeota,Nanoarchaeia,Woesearchaeales,CAIVOO01,CAIVED01
+Haloquadratum walsbyi,DQ314493,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_4110,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Haloquadratum walsbyi,DQ314494,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_4111,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Halobacterium salinarum,D32120,72,28,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_4357,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium
+Halobacterium salinarum,K02971,77,33,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_4358,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium
+Haloferax volcanii,M19341,71,27,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_4359,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Haloferax volcanii,K02506,75,31,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_4360,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Haloferax volcanii,K02507,75,31,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_4361,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Haloferax volcanii,K02508,75,31,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_4362,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Halobacterium salinarum,K00142,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_4363,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium
+Methanocaldococcus jannaschii DSM 2661,L77117,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_4368,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus
+Methanocaldococcus jannaschii DSM 2661,L77117,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_4369,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus
+Methanocaldococcus jannaschii DSM 2661,L77117,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_4370,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus
+Methanospirillum hungatei,M19342,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_4381,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Halobacterium salinarum,X02703,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_4464,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium
+Halobacterium salinarum,X03407,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_4466,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium
+Methanothermobacter thermautotrophicus,X15364,75,31,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_4477,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanothermobacteraceae,Methanothermobacter
+Methanosarcina mazei,X69874,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_4497,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Archaeoglobus fulgidus DSM 4304,AE000782,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_4621,--,Yes,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus
+Methanosarcina mazei Go1,AE008384,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_4654,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina mazei Go1,AE008384,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_4655,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Pyrococcus furiosus DSM 3638,AE010241,76,32,44,No,0,tRNA,0,(()()()),((())()()),--,No,CRW,--,CRW_t_A_4674,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Methanopyrus kandleri AV19,AE010382,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_4676,--,Yes,Archaea,Methanobacteriota_A,Methanopyri,Methanopyrales,Methanopyraceae,Methanopyrus
+Pyrococcus abyssi GE5,AJ248285,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_4855,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Haloquadratum walsbyi DSM 16790,AM180088,73,29,44,No,0,tRNA,0,(()()()),((())()()),--,No,CRW,--,CRW_t_A_4932,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Thermococcus kodakarensis KOD1,AP006878,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_4988,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus
+Haloarcula marismortui ATCC 43049,AY596297,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_5058,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Pyrococcus horikoshii OT3,BA000001,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_5073,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Aeropyrum pernix K1,BA000002,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_5074,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Acidilobaceae,Aeropyrum
+Thermoplasma volcanium GSS1,BA000011,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_5084,--,Yes,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Thermoplasma
+Methanococcus maripaludis S2,BX957223,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_5169,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanococcaceae,Methanococcus
+Methanosarcina barkeri str. Fusaro,CP000099,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_5258,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina barkeri str. Fusaro,CP000099,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_5259,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosphaera stadtmanae DSM 3091,CP000102,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_5260,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera
+Methanosphaera stadtmanae DSM 3091,CP000102,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_5261,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera
+Methanospirillum hungatei JF-1,CP000254,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_5328,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Methanococcoides burtonii DSM 6242,CP000300,73,29,44,No,0,tRNA,0,(()()()),((())()()),--,No,CRW,--,CRW_t_A_5358,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides
+Hyperthermus butylicus DSM 5456,CP000493,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_5492,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Pyrodictiaceae,Hyperthermus
+Methanocorpusculum labreanum Z,CP000559,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_5534,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanocorpusculaceae,Methanocorpusculum
+Natronomonas pharaonis DSM 2160,CR936257,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_5596,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas
+Haloferax volcanii DS2,K02520,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_5697,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Methanocaldococcus jannaschii DSM 2661,L77117,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_5703,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus
+Halobacterium salinarum,X03195,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_5710,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium
+Methanothermobacter thermautotrophicus,X06788,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_5735,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanothermobacteraceae,Methanothermobacter
+Halobacterium salinarum,X03195,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_5767,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium
+Methanothermobacter thermautotrophicus,X06788,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_5770,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanothermobacteraceae,Methanothermobacter
+Methanosarcina mazei Go1,AE008384,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_5919,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Pyrococcus furiosus DSM 3638,AE010266,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_5936,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Methanopyrus kandleri AV19,AE010362,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_5938,--,Yes,Archaea,Methanobacteriota_A,Methanopyri,Methanopyrales,Methanopyraceae,Methanopyrus
+Pyrococcus abyssi GE5,AJ248284,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_6122,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Haloquadratum walsbyi DSM 16790,AM180088,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_6203,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Thermococcus kodakarensis KOD1,AP006878,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_6254,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus
+Haloarcula marismortui ATCC 43049,AY596297,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_6356,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Haloarcula marismortui ATCC 43049,AY596297,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_6357,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Pyrococcus horikoshii OT3,BA000001,78,34,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_6446,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Aeropyrum pernix K1,BA000002,78,34,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_6447,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Acidilobaceae,Aeropyrum
+Thermoplasma volcanium GSS1,BA000011,73,29,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_6455,--,Yes,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Thermoplasma
+Methanococcus maripaludis S2,BX957219,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_6547,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanococcaceae,Methanococcus
+Methanococcus maripaludis S2,BX957219,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_6548,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanococcaceae,Methanococcus
+Sulfolobus acidocaldarius DSM 639,CP000077,70,32,38,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_6626,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Sulfolobaceae,Sulfolobus
+Methanosarcina barkeri str. Fusaro,CP000099,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_6652,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosphaera stadtmanae DSM 3091,CP000102,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_6653,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera
+Methanococcoides burtonii DSM 6242,CP000300,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_6762,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides
+Hyperthermus butylicus DSM 5456,CP000493,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_6902,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Pyrodictiaceae,Hyperthermus
+Methanocorpusculum labreanum Z,CP000559,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_6942,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanocorpusculaceae,Methanocorpusculum
+Methanocorpusculum labreanum Z,CP000559,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_6943,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanocorpusculaceae,Methanocorpusculum
+Natronomonas pharaonis DSM 2160,CR936257,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_7019,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas
+Haloferax volcanii,K00170,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_7048,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Methanobacterium formicicum,AF443995,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_7050,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanobacterium
+Haloferax volcanii,K00170,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_7126,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Methanocaldococcus jannaschii DSM 2661,L77117,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_7129,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus
+Archaeoglobus fulgidus DSM 4304,AE000782,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_7310,--,Yes,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus
+Methanosarcina mazei Go1,AE008384,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_7326,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina mazei Go1,AE008384,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_7327,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina mazei Go1,AE008384,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_7328,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Pyrococcus furiosus DSM 3638,AE010251,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_7334,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Methanopyrus kandleri AV19,AE010398,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_7335,--,Yes,Archaea,Methanobacteriota_A,Methanopyri,Methanopyrales,Methanopyraceae,Methanopyrus
+Pyrococcus abyssi GE5,AJ248285,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_7401,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Haloquadratum walsbyi DSM 16790,AM180088,79,35,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_7428,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Thermococcus kodakarensis KOD1,AP006878,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_7452,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus
+Pyrococcus horikoshii OT3,BA000001,75,31,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_7538,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Aeropyrum pernix K1,BA000002,78,34,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_7539,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Acidilobaceae,Aeropyrum
+Methanosarcina barkeri str. Fusaro,CP000099,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_7620,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina barkeri str. Fusaro,CP000099,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_7621,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanospirillum hungatei JF-1,CP000254,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_7661,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Methanococcoides burtonii DSM 6242,CP000300,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_7671,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides
+Methanococcoides burtonii DSM 6242,CP000300,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_7672,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides
+Methanococcoides burtonii DSM 6242,CP000300,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_7673,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides
+Hyperthermus butylicus DSM 5456,CP000493,79,35,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_7741,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Pyrodictiaceae,Hyperthermus
+Methanocorpusculum labreanum Z,CP000559,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_7768,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanocorpusculaceae,Methanocorpusculum
+Natronomonas pharaonis DSM 2160,CR936257,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_7799,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas
+Haloquadratum walsbyi,DQ314493,76,32,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_7899,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Haloquadratum walsbyi,DQ314494,76,32,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_7900,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Halobacterium salinarum,K02972,75,31,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_7925,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium
+Methanocaldococcus jannaschii DSM 2661,L77117,72,28,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_7927,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus
+Pyrococcus furiosus DSM 3638,AB005747,77,35,42,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_7997,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Archaeoglobus fulgidus DSM 4304,AE000782,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_8063,--,Yes,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus
+Methanosarcina mazei Go1,AE008384,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_8103,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina mazei Go1,AE008384,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_8104,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina mazei Go1,AE008384,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_8105,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Pyrococcus furiosus DSM 3638,AE010156,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_8124,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus furiosus DSM 3638,AE010198,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_8125,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Picrophilus torridus DSM 9790,AE017261,75,47,28,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_8284,--,Yes,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Picrophilus
+Pyrococcus abyssi GE5,AJ248286,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_8478,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus abyssi GE5,AJ248287,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_8479,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Haloquadratum walsbyi DSM 16790,AM180088,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_8636,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Haloquadratum walsbyi DSM 16790,AM180088,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_8637,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Thermococcus kodakarensis KOD1,AP006878,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_8690,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus
+Thermococcus kodakarensis KOD1,AP006878,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_8691,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus
+Haloarcula marismortui ATCC 43049,AY596295,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_8834,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Haloarcula marismortui ATCC 43049,AY596297,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_8835,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Haloarcula marismortui ATCC 43049,AY596297,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_8836,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Pyrococcus horikoshii OT3,BA000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_8904,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus horikoshii OT3,BA000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_8905,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Aeropyrum pernix K1,BA000002,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_8906,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Acidilobaceae,Aeropyrum
+Aeropyrum pernix K1,BA000002,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_8907,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Acidilobaceae,Aeropyrum
+Thermoplasma volcanium GSS1,BA000011,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_8917,--,Yes,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Thermoplasma
+Thermoplasma volcanium GSS1,BA000011,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_8918,--,Yes,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Thermoplasma
+Methanococcus maripaludis S2,BX957219,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_9035,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanococcaceae,Methanococcus
+Methanococcus maripaludis S2,BX957223,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_9036,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanococcaceae,Methanococcus
+Methanosarcina barkeri str. Fusaro,CP000099,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_9146,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina barkeri str. Fusaro,CP000099,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_9147,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina barkeri str. Fusaro,CP000099,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_9148,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosphaera stadtmanae DSM 3091,CP000102,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_9149,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera
+Methanosphaera stadtmanae DSM 3091,CP000102,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_9150,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera
+Methanospirillum hungatei JF-1,CP000254,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_9237,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Methanococcoides burtonii DSM 6242,CP000300,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_9272,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides
+Methanococcoides burtonii DSM 6242,CP000300,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_9273,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides
+Hyperthermus butylicus DSM 5456,CP000493,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_9453,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Pyrodictiaceae,Hyperthermus
+Hyperthermus butylicus DSM 5456,CP000493,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_9454,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Pyrodictiaceae,Hyperthermus
+Natronomonas pharaonis DSM 2160,CR936257,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_9589,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas
+Natronomonas pharaonis DSM 2160,CR936257,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_9590,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas
+Haloferax volcanii,K00190,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_9695,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Haloferax volcanii,K02510,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_9713,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Methanocaldococcus jannaschii,U67517,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_9717,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus
+Haloferax volcanii,K00190,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_9746,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Haloferax volcanii,K02510,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_9747,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Methanocaldococcus jannaschii DSM 2661,L77117,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_9751,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus
+Methanocaldococcus jannaschii DSM 2661,L77117,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_9752,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus
+Archaeoglobus fulgidus DSM 4304,AE000782,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_9979,--,Yes,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus
+Archaeoglobus fulgidus DSM 4304,AE000782,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_9980,--,Yes,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus
+Methanosarcina mazei Go1,AE008384,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10016,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina mazei Go1,AE008384,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10017,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Pyrobaculum aerophilum str. IM2,AE009873,76,32,44,No,0,tRNA,0,()()(),()()(),--,No,CRW,--,CRW_t_A_10032,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermoproteales,Thermoproteaceae,Pyrobaculum
+Pyrococcus furiosus DSM 3638,AE010157,76,32,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_10039,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus furiosus DSM 3638,AE010162,76,32,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_10040,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Methanopyrus kandleri AV19,AE010317,76,32,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_10042,--,Yes,Archaea,Methanobacteriota_A,Methanopyri,Methanopyrales,Methanopyraceae,Methanopyrus
+Pyrococcus abyssi GE5,AJ248287,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10193,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus abyssi GE5,AJ248288,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10194,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Haloquadratum walsbyi DSM 16790,AM180088,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10251,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Haloquadratum walsbyi DSM 16790,AM180088,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10252,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Thermococcus kodakarensis KOD1,AP006878,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10294,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus
+Thermococcus kodakarensis KOD1,AP006878,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10295,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus
+Haloarcula marismortui ATCC 43049,AY596297,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10349,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Haloarcula marismortui ATCC 43049,AY596297,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10350,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Pyrococcus horikoshii OT3,BA000001,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10363,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus horikoshii OT3,BA000001,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10364,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Aeropyrum pernix K1,BA000002,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10365,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Acidilobaceae,Aeropyrum
+Aeropyrum pernix K1,BA000002,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10366,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Acidilobaceae,Aeropyrum
+Thermoplasma volcanium GSS1,BA000011,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10377,--,Yes,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Thermoplasma
+Thermoplasma volcanium GSS1,BA000011,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10378,--,Yes,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Thermoplasma
+Methanococcus maripaludis S2,BX957219,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10458,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanococcaceae,Methanococcus
+Sulfolobus acidocaldarius DSM 639,CP000077,70,30,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10517,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Sulfolobaceae,Sulfolobus
+Sulfolobus acidocaldarius DSM 639,CP000077,70,30,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10518,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Sulfolobaceae,Sulfolobus
+Methanosarcina barkeri str. Fusaro,CP000099,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10532,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina barkeri str. Fusaro,CP000099,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10533,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosphaera stadtmanae DSM 3091,CP000102,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10534,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera
+Methanosphaera stadtmanae DSM 3091,CP000102,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10535,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera
+Methanospirillum hungatei JF-1,CP000254,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10609,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Methanospirillum hungatei JF-1,CP000254,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10610,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Hyperthermus butylicus DSM 5456,CP000493,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10764,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Pyrodictiaceae,Hyperthermus
+Hyperthermus butylicus DSM 5456,CP000493,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10765,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Pyrodictiaceae,Hyperthermus
+Methanocorpusculum labreanum Z,CP000559,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10796,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanocorpusculaceae,Methanocorpusculum
+Methanocorpusculum labreanum Z,CP000559,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10797,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanocorpusculaceae,Methanocorpusculum
+Natronomonas pharaonis DSM 2160,CR936257,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10845,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas
+Natronomonas pharaonis DSM 2160,CR936257,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10846,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas
+Haloferax volcanii,K00183,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10945,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Methanocaldococcus jannaschii DSM 2661,L77117,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10948,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus
+Halobacterium salinarum,X03196,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10959,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium
+Haloferax volcanii,K00183,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10960,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Methanocaldococcus jannaschii,U67528,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_10971,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus
+Halobacterium salinarum,X03196,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_11013,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium
+Archaeoglobus fulgidus DSM 4304,AE000782,71,27,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_11152,--,Yes,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus
+Archaeoglobus fulgidus DSM 4304,AE000782,71,27,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_11153,--,Yes,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus
+Archaeoglobus fulgidus DSM 4304,AE000782,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_11154,--,Yes,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus
+Methanosarcina mazei Go1,AE008384,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_11227,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina mazei Go1,AE008384,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_11228,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Pyrobaculum aerophilum str. IM2,AE009916,79,35,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_11255,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermoproteales,Thermoproteaceae,Pyrobaculum
+Pyrobaculum aerophilum str. IM2,AE009921,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_11256,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermoproteales,Thermoproteaceae,Pyrobaculum
+Pyrococcus furiosus DSM 3638,AE010133,78,36,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_11268,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus furiosus DSM 3638,AE010159,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_11269,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus furiosus DSM 3638,AE010226,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_11270,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Methanopyrus kandleri AV19,AE010304,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_11273,--,Yes,Archaea,Methanobacteriota_A,Methanopyri,Methanopyrales,Methanopyraceae,Methanopyrus
+Methanopyrus kandleri AV19,AE010452,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_11274,--,Yes,Archaea,Methanobacteriota_A,Methanopyri,Methanopyrales,Methanopyraceae,Methanopyrus
+Pyrococcus abyssi GE5,AJ248283,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_11615,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus abyssi GE5,AJ248286,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_11616,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus abyssi GE5,AJ248287,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_11617,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Haloquadratum walsbyi DSM 16790,AM180088,71,27,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_11778,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Haloquadratum walsbyi DSM 16790,AM180088,71,27,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_11779,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Haloquadratum walsbyi DSM 16790,AM180088,71,27,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_11780,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Thermococcus kodakarensis KOD1,AP006878,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_11876,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus
+Thermococcus kodakarensis KOD1,AP006878,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_11877,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus
+Thermococcus kodakarensis KOD1,AP006878,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_11878,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus
+Haloarcula marismortui ATCC 43049,AY596297,71,27,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_12066,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Haloarcula marismortui ATCC 43049,AY596297,71,27,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_12067,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Haloarcula marismortui ATCC 43049,AY596297,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_12068,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Pyrococcus horikoshii OT3,BA000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_12139,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus horikoshii OT3,BA000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_12140,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus horikoshii OT3,BA000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_12141,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Aeropyrum pernix K1,BA000002,79,35,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_12142,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Acidilobaceae,Aeropyrum
+Aeropyrum pernix K1,BA000002,79,35,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_12143,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Acidilobaceae,Aeropyrum
+Aeropyrum pernix K1,BA000002,79,35,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_12144,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Acidilobaceae,Aeropyrum
+Methanococcus maripaludis S2,BX957222,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_12347,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanococcaceae,Methanococcus
+Sulfolobus acidocaldarius DSM 639,CP000077,73,33,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_12481,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Sulfolobaceae,Sulfolobus
+Methanosarcina barkeri str. Fusaro,CP000099,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_12523,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina barkeri str. Fusaro,CP000099,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_12524,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosphaera stadtmanae DSM 3091,CP000102,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_12525,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera
+Methanospirillum hungatei JF-1,CP000254,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_12679,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Methanospirillum hungatei JF-1,CP000254,71,27,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_12680,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Methanococcoides burtonii DSM 6242,CP000300,71,27,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_12737,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides
+Methanococcoides burtonii DSM 6242,CP000300,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_12738,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides
+Hyperthermus butylicus DSM 5456,CP000493,79,35,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_13018,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Pyrodictiaceae,Hyperthermus
+Hyperthermus butylicus DSM 5456,CP000493,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_13019,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Pyrodictiaceae,Hyperthermus
+Hyperthermus butylicus DSM 5456,CP000493,79,35,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_13020,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Pyrodictiaceae,Hyperthermus
+Methanocorpusculum labreanum Z,CP000559,71,27,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_13098,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanocorpusculaceae,Methanocorpusculum
+Natronomonas pharaonis DSM 2160,CR936257,71,27,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_13230,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas
+Natronomonas pharaonis DSM 2160,CR936257,71,27,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_13231,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas
+Natronomonas pharaonis DSM 2160,CR936257,71,27,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_13232,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas
+Haloferax volcanii,K02515,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_13464,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Thermofilum pendens,X14835,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_13465,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermofilales,Thermofilaceae,Thermofilum_C
+Haloferax volcanii,K02513,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_13471,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Methanothermobacter thermautotrophicus,X06787,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_13473,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanothermobacteraceae,Methanothermobacter
+Haloferax volcanii,K02514,74,30,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_13494,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Haloferax volcanii,K02512,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_13513,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Haloferax volcanii,K02513,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_13514,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Haloferax volcanii,K02514,74,30,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_13515,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Haloferax volcanii,K02515,74,30,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_13516,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Methanocaldococcus jannaschii DSM 2661,L77117,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_13527,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus
+Methanocaldococcus jannaschii DSM 2661,L77117,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_13528,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus
+Thermofilum pendens,J05061,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_13559,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermofilales,Thermofilaceae,Thermofilum_C
+Halobacterium salinarum,X03197,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_13597,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium
+Methanothermobacter thermautotrophicus,X06787,78,34,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_13612,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanothermobacteraceae,Methanothermobacter
+Archaeoglobus fulgidus DSM 4304,AE000782,72,28,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_13920,--,Yes,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus
+Methanosarcina mazei Go1,AE008384,73,29,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_13940,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Pyrococcus furiosus DSM 3638,AE010295,77,33,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_13951,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Methanopyrus kandleri AV19,AE010380,78,34,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_13953,--,Yes,Archaea,Methanobacteriota_A,Methanopyri,Methanopyrales,Methanopyraceae,Methanopyrus
+Pyrococcus abyssi GE5,AJ248283,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_14187,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Haloquadratum walsbyi DSM 16790,AM180088,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_14297,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Thermococcus kodakarensis KOD1,AP006878,77,33,44,No,0,tRNA,0,()()(),()()(),--,No,CRW,--,CRW_t_A_14390,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus
+Haloarcula marismortui ATCC 43049,AY596297,71,27,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_14685,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Pyrococcus horikoshii OT3,BA000001,77,33,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_14770,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Aeropyrum pernix K1,BA000002,78,34,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_14771,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Acidilobaceae,Aeropyrum
+Thermoplasma volcanium GSS1,BA000011,72,28,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_14776,--,Yes,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Thermoplasma
+Methanococcus maripaludis S2,BX957223,75,31,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_14828,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanococcaceae,Methanococcus
+Sulfolobus acidocaldarius DSM 639,CP000077,72,32,40,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_14863,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Sulfolobaceae,Sulfolobus
+Methanosarcina barkeri str. Fusaro,CP000099,72,28,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_14876,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosphaera stadtmanae DSM 3091,CP000102,75,31,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_14877,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera
+Methanospirillum hungatei JF-1,CP000254,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_14925,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Methanococcoides burtonii DSM 6242,CP000300,75,31,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_14941,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides
+Hyperthermus butylicus DSM 5456,CP000493,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_15016,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Pyrodictiaceae,Hyperthermus
+Natronomonas pharaonis DSM 2160,CR936257,71,27,44,No,0,tRNA,0,()()(),()()(),--,No,CRW,--,CRW_t_A_15082,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas
+Haloferax volcanii,K02516,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_15349,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Halobacterium salinarum,X03198,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_15350,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium
+Haloferax volcanii,K02516,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_15351,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Methanocaldococcus jannaschii,U67517,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_15352,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus
+Methanocaldococcus jannaschii DSM 2661,L77117,72,28,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_15380,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus
+Halobacterium salinarum,X03198,77,33,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_15415,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Halobacteriaceae,Halobacterium
+Archaeoglobus fulgidus DSM 4304,AE000782,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_15683,--,Yes,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus
+Methanosarcina mazei Go1,AE008384,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_15722,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina mazei Go1,AE008384,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_15723,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Pyrobaculum aerophilum str. IM2,AE009874,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_15740,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermoproteales,Thermoproteaceae,Pyrobaculum
+Pyrococcus furiosus DSM 3638,AE010198,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_15746,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Methanopyrus kandleri AV19,AE010306,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_15748,--,Yes,Archaea,Methanobacteriota_A,Methanopyri,Methanopyrales,Methanopyraceae,Methanopyrus
+Pyrococcus abyssi GE5,AJ248286,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_16785,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Haloquadratum walsbyi DSM 16790,AM180088,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_17135,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Thermococcus kodakarensis KOD1,AP006878,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_17243,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus
+Haloarcula marismortui ATCC 43049,AY596297,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_17656,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Pyrococcus horikoshii OT3,BA000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_18676,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Aeropyrum pernix K1,BA000002,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_18677,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Acidilobaceae,Aeropyrum
+Sulfolobus acidocaldarius DSM 639,CP000077,71,31,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_18869,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Sulfolobaceae,Sulfolobus
+Methanosarcina barkeri str. Fusaro,CP000099,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_18900,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina barkeri str. Fusaro,CP000099,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_18901,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosphaera stadtmanae DSM 3091,CP000102,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_18902,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera
+Methanospirillum hungatei JF-1,CP000254,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_18997,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Methanococcoides burtonii DSM 6242,CP000300,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_19032,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides
+Hyperthermus butylicus DSM 5456,CP000493,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_19188,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Pyrodictiaceae,Hyperthermus
+Methanocorpusculum labreanum Z,CP000559,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_19239,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanocorpusculaceae,Methanocorpusculum
+Natronomonas pharaonis DSM 2160,CR936257,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_19329,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas
+Haloferax volcanii,K00219,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_19844,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Haloferax volcanii,K02517,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_19845,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Methanocaldococcus jannaschii,U67517,75,31,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_19852,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus
+Haloferax volcanii,K00219,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_19860,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Archaeoglobus fulgidus DSM 4304,AE000782,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_20252,--,Yes,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus
+Archaeoglobus fulgidus DSM 4304,AE000782,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_20253,--,Yes,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus
+Methanosarcina mazei Go1,AE008384,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_20296,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina mazei Go1,AE008384,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_20297,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Pyrobaculum aerophilum str. IM2,AE009908,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_20315,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermoproteales,Thermoproteaceae,Pyrobaculum
+Pyrobaculum aerophilum str. IM2,AE009909,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_20316,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermoproteales,Thermoproteaceae,Pyrobaculum
+Pyrococcus furiosus DSM 3638,AE010172,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_20325,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus furiosus DSM 3638,AE010250,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_20326,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Methanopyrus kandleri AV19,AE010368,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_20328,--,Yes,Archaea,Methanobacteriota_A,Methanopyri,Methanopyrales,Methanopyraceae,Methanopyrus
+Methanococcus maripaludis,AF108356,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_20541,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanococcaceae,Methanococcus
+Pyrococcus abyssi GE5,AJ248285,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_20564,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus abyssi GE5,AJ248287,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_20565,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Haloquadratum walsbyi DSM 16790,AM180088,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_20655,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Haloquadratum walsbyi DSM 16790,AM180088,76,32,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_20656,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Thermococcus kodakarensis KOD1,AP006878,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_20718,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus
+Thermococcus kodakarensis KOD1,AP006878,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_20719,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus
+Haloarcula marismortui ATCC 43049,AY596297,74,30,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_20853,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Haloarcula marismortui ATCC 43049,AY596297,74,30,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_20854,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Pyrococcus horikoshii OT3,BA000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_20888,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus horikoshii OT3,BA000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_20889,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Aeropyrum pernix K1,BA000002,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_20890,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Acidilobaceae,Aeropyrum
+Aeropyrum pernix K1,BA000002,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_20891,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Acidilobaceae,Aeropyrum
+Thermoplasma volcanium GSS1,BA000011,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_20901,--,Yes,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Thermoplasma
+Thermoplasma volcanium GSS1,BA000011,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_20902,--,Yes,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Thermoplasma
+Methanococcus maripaludis S2,BX957219,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_21012,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanococcaceae,Methanococcus
+Methanococcus maripaludis S2,BX957219,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_21013,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanococcaceae,Methanococcus
+Sulfolobus acidocaldarius DSM 639,CP000077,73,33,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_21095,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Sulfolobaceae,Sulfolobus
+Sulfolobus acidocaldarius DSM 639,CP000077,73,33,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_21096,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Sulfolobaceae,Sulfolobus
+Methanosarcina barkeri str. Fusaro,CP000099,77,33,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_21123,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina barkeri str. Fusaro,CP000099,74,30,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_21124,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosphaera stadtmanae DSM 3091,CP000102,74,30,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_21125,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera
+Methanospirillum hungatei JF-1,CP000254,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_21225,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Methanospirillum hungatei JF-1,CP000254,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_21226,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Methanococcoides burtonii DSM 6242,CP000300,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_21262,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides
+Methanococcoides burtonii DSM 6242,CP000300,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_21263,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides
+Hyperthermus butylicus DSM 5456,CP000493,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_21453,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Pyrodictiaceae,Hyperthermus
+Methanocorpusculum labreanum Z,CP000559,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_21507,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanocorpusculaceae,Methanocorpusculum
+Methanocorpusculum labreanum Z,CP000559,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_21508,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanocorpusculaceae,Methanocorpusculum
+Natronomonas pharaonis DSM 2160,CR936257,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_21562,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas
+Natronomonas pharaonis DSM 2160,CR936257,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_21563,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas
+Haloferax volcanii,K00283,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_21800,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Haloferax volcanii,K02518,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_21801,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Haloferax volcanii,K02518,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_21818,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Methanococcus maripaludis,AF108356,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_21821,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanococcaceae,Methanococcus
+Methanocaldococcus jannaschii DSM 2661,L77117,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_21841,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus
+Archaeoglobus fulgidus DSM 4304,AE000782,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_22036,--,Yes,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus
+Archaeoglobus fulgidus DSM 4304,AE000782,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_22037,--,Yes,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus
+Methanosarcina mazei Go1,AE008384,75,31,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_22073,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina mazei Go1,AE008384,75,31,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_22074,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina mazei Go1,AE008384,75,31,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_22075,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Pyrococcus furiosus DSM 3638,AE010241,78,34,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_22097,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Methanopyrus kandleri AV19,AE010337,75,31,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_22098,--,Yes,Archaea,Methanobacteriota_A,Methanopyri,Methanopyrales,Methanopyraceae,Methanopyrus
+Pyrococcus abyssi GE5,AJ248285,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_22316,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Haloquadratum walsbyi DSM 16790,AM180088,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_22512,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Thermococcus kodakarensis KOD1,AP006878,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_22585,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus
+Haloarcula marismortui ATCC 43049,AY596297,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_22658,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Pyrococcus horikoshii OT3,BA000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_22678,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Aeropyrum pernix K1,BA000002,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_22679,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Acidilobaceae,Aeropyrum
+Aeropyrum pernix K1,BA000002,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_22680,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Acidilobaceae,Aeropyrum
+Thermoplasma volcanium GSS1,BA000011,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_22697,--,Yes,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Thermoplasma
+Thermoplasma volcanium GSS1,BA000011,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_22698,--,Yes,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Thermoplasma
+Methanococcus maripaludis S2,BX957223,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_22821,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanococcaceae,Methanococcus
+Sulfolobus acidocaldarius DSM 639,CP000077,74,34,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_22927,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Sulfolobaceae,Sulfolobus
+Sulfolobus acidocaldarius DSM 639,CP000077,73,33,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_22928,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Sulfolobaceae,Sulfolobus
+Methanosarcina barkeri str. Fusaro,CP000099,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_22965,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina barkeri str. Fusaro,CP000099,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_22966,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina barkeri str. Fusaro,CP000099,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_22967,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina barkeri str. Fusaro,CP000099,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_22968,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosphaera stadtmanae DSM 3091,CP000102,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_22969,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera
+Methanospirillum hungatei JF-1,CP000254,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_23096,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Methanococcoides burtonii DSM 6242,CP000300,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_23139,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides
+Methanococcoides burtonii DSM 6242,CP000300,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_23140,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides
+Hyperthermus butylicus DSM 5456,CP000493,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_23376,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Pyrodictiaceae,Hyperthermus
+Hyperthermus butylicus DSM 5456,CP000493,80,36,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_23377,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Pyrodictiaceae,Hyperthermus
+Thermofilum pendens Hrk 5,CP000505,79,35,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_23386,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermofilales,Thermofilaceae,Thermofilum_B
+Methanocorpusculum labreanum Z,CP000559,72,28,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_23435,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanocorpusculaceae,Methanocorpusculum
+Methanocorpusculum labreanum Z,CP000559,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_23436,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanocorpusculaceae,Methanocorpusculum
+Methanocaldococcus jannaschii DSM 2661,L77117,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_23625,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus
+Thermofilum pendens,X14835.1,79,35,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_23627,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermofilales,Thermofilaceae,Thermofilum_C
+Thermofilum pendens,X14835,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_23628,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermofilales,Thermofilaceae,Thermofilum_C
+Thermofilum pendens,X14835.1,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_23629,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermofilales,Thermofilaceae,Thermofilum_C
+Thermofilum pendens,X14835,79,35,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_23731,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermofilales,Thermofilaceae,Thermofilum_C
+Pyrobaculum aerophilum str. IM2,AE009901,75,31,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_24361,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermoproteales,Thermoproteaceae,Pyrobaculum
+Pyrococcus furiosus DSM 3638,AE010133,77,33,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_24367,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Methanopyrus kandleri AV19,AE010452,79,35,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_24369,--,Yes,Archaea,Methanobacteriota_A,Methanopyri,Methanopyrales,Methanopyraceae,Methanopyrus
+Pyrococcus abyssi GE5,AJ248283,77,33,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_25806,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Haloquadratum walsbyi DSM 16790,AM180088,74,30,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_27031,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Thermococcus kodakarensis KOD1,AP006878,77,33,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_27207,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus
+Haloarcula marismortui ATCC 43049,AY596297,74,30,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_28981,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Pyrococcus horikoshii OT3,BA000001,77,33,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_29920,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Aeropyrum pernix K1,BA000002,75,31,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_29921,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Acidilobaceae,Aeropyrum
+Thermoplasma volcanium GSS1,BA000011,73,29,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_29927,--,Yes,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Thermoplasma
+Methanococcus maripaludis S2,BX957223,74,30,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_29998,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanococcaceae,Methanococcus
+Methanosphaera stadtmanae DSM 3091,CP000102,73,29,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_30059,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera
+Methanosphaera stadtmanae DSM 3091,CP000102,73,29,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_30060,--,Yes,Archaea,Methanobacteriota,Methanobacteria,Methanobacteriales,Methanobacteriaceae,Methanosphaera
+Methanospirillum hungatei JF-1,CP000254,74,30,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_30116,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Hyperthermus butylicus DSM 5456,CP000493,75,31,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_30235,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Pyrodictiaceae,Hyperthermus
+Methanocorpusculum labreanum Z,CP000559,73,29,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_30262,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanocorpusculaceae,Methanocorpusculum
+Natronomonas pharaonis DSM 2160,CR936257,74,30,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_30315,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas
+Haloferax volcanii,K02511,77,33,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_31213,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Methanocaldococcus jannaschii,U67517,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_31214,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus
+Haloferax volcanii,K02511,77,33,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_31247,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Methanocaldococcus jannaschii DSM 2661,L77117,74,30,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_31255,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus
+Archaeoglobus fulgidus DSM 4304,AE000782,74,30,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_31479,--,Yes,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus
+Archaeoglobus fulgidus DSM 4304,AE000782,73,29,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_31480,--,Yes,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus
+Archaeoglobus fulgidus DSM 4304,AE000782,74,30,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_31481,--,Yes,Archaea,Halobacteriota,Archaeoglobi,Archaeoglobales,Archaeoglobaceae,Archaeoglobus
+Methanosarcina mazei Go1,AE008384,78,34,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_31521,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina mazei Go1,AE008384,75,31,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_31522,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina mazei Go1,AE008384,75,31,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_31523,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Pyrobaculum aerophilum str. IM2,AE009774,74,30,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_31539,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermoproteales,Thermoproteaceae,Pyrobaculum
+Pyrococcus furiosus DSM 3638,AE010257,78,34,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_31546,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus furiosus DSM 3638,AE010263,77,33,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_31547,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus furiosus DSM 3638,AE010291,78,34,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_31548,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Methanopyrus kandleri AV19,AE010452,78,34,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_31551,--,Yes,Archaea,Methanobacteriota_A,Methanopyri,Methanopyrales,Methanopyraceae,Methanopyrus
+Picrophilus torridus DSM 9790,AE017261,65,39,26,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_31659,--,Yes,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Picrophilus
+Pyrococcus abyssi GE5,AJ248283,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_31730,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus abyssi GE5,AJ248284,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_31731,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus abyssi GE5,AJ248284,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_31732,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Haloquadratum walsbyi DSM 16790,AM180088,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_31803,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Haloquadratum walsbyi DSM 16790,AM180088,71,27,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_31804,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Thermococcus kodakarensis KOD1,AP006878,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_31854,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus
+Thermococcus kodakarensis KOD1,AP006878,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_31855,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus
+Thermococcus kodakarensis KOD1,AP006878,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_31856,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus
+Haloarcula marismortui ATCC 43049,AY596297,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_31949,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Haloarcula marismortui ATCC 43049,AY596297,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_31950,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Haloarcula marismortui ATCC 43049,AY596297,71,27,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_31951,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Pyrococcus horikoshii OT3,BA000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_31963,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus horikoshii OT3,BA000001,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_31964,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus horikoshii OT3,BA000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_31965,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Thermoplasma volcanium GSS1,BA000011,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_31973,--,Yes,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Thermoplasma
+Thermoplasma volcanium GSS1,BA000011,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_31974,--,Yes,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Thermoplasma
+Thermoplasma volcanium GSS1,BA000011,73,29,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_31975,--,Yes,Archaea,Thermoplasmatota,Thermoplasmata,Thermoplasmatales,Thermoplasmataceae,Thermoplasma
+Methanococcus maripaludis S2,BX957219,77,33,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_32075,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanococcaceae,Methanococcus
+Methanococcus maripaludis S2,BX957222,74,30,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_32076,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanococcaceae,Methanococcus
+Methanosarcina barkeri str. Fusaro,CP000099,75,31,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_32168,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina barkeri str. Fusaro,CP000099,78,34,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_32169,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanosarcina barkeri str. Fusaro,CP000099,75,31,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_32170,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanosarcina
+Methanospirillum hungatei JF-1,CP000254,75,31,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_32283,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Methanospirillum hungatei JF-1,CP000254,75,31,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_32284,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Methanospirillum hungatei JF-1,CP000254,73,29,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_32285,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Methanococcoides burtonii DSM 6242,CP000300,75,31,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_32311,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides
+Methanococcoides burtonii DSM 6242,CP000300,77,33,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_32312,--,Yes,Archaea,Halobacteriota,Methanosarcinia,Methanosarcinales,Methanosarcinaceae,Methanococcoides
+Natronomonas pharaonis DSM 2160,CR936257,71,27,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_32569,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas
+Natronomonas pharaonis DSM 2160,CR936257,71,27,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_32570,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas
+Natronomonas pharaonis DSM 2160,CR936257,73,29,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_32571,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas
+Haloferax volcanii,K00356,76,32,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_32650,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Haloferax volcanii,K02521,74,30,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_32651,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Haloferax volcanii DS2,K02522,76,32,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_32652,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Methanocaldococcus jannaschii DSM 2661,L77117,74,30,44,No,0,tRNA,0,()()(),()()(),--,No,CRW,--,CRW_t_A_32660,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus
+Methanocaldococcus jannaschii DSM 2661,L77117,75,31,44,No,0,tRNA,0,()()(),()()(),--,No,CRW,--,CRW_t_A_32661,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus
+Haloferax volcanii,K02521,74,30,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_32679,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Haloferax volcanii,K02522,76,32,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_32691,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Methanocaldococcus jannaschii,U67537,77,33,44,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_A_32692,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus
+Pyrobaculum aerophilum str. IM2,AE009919,77,33,44,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_A_32884,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermoproteales,Thermoproteaceae,Pyrobaculum
+Halorubrum sodomense,AY047489,22,12,10,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_33108,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Halorubrum
+Thermococcus barophilus,AY047490,19,9,10,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_33109,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus_B
+Haloarcula marismortui ATCC 43049,AY596297,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_33124,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Aeropyrum pernix K1,BA000002,77,33,44,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_33149,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Acidilobaceae,Aeropyrum
+Sulfolobus acidocaldarius DSM 639,CP000077,73,33,40,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_A_33242,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Sulfolobaceae,Sulfolobus
+Methanospirillum hungatei JF-1,CP000254,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_33304,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Hyperthermus butylicus DSM 5456,CP000493,79,35,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_33389,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Pyrodictiaceae,Hyperthermus
+Pyrobaculum islandicum DSM 4184,CP000504,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_33391,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermoproteales,Thermoproteaceae,Pyrobaculum
+Haloferax volcanii DS2,M10655,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_33503,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Haloferax volcanii,K02528,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_33504,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Haloferax volcanii,K02528,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_33539,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Pyrococcus furiosus DSM 3638,AE010221,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_33663,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Pyrococcus abyssi GE5,AJ248286,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_33674,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Haloquadratum walsbyi DSM 16790,AM180088,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_33676,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloquadratum
+Thermococcus kodakarensis KOD1,AP006878,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_33677,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Thermococcus
+Haloarcula marismortui ATCC 43049,AY596297,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_33680,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Haloarcula
+Pyrococcus horikoshii OT3,BA000001,78,34,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_33681,--,Yes,Archaea,Methanobacteriota_B,Thermococci,Thermococcales,Thermococcaceae,Pyrococcus
+Methanococcus maripaludis S2,BX957219,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_33682,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanococcaceae,Methanococcus
+Natronomonas pharaonis DSM 2160,CR936257,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_33694,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloarculaceae,Natronomonas
+Haloferax volcanii,K00268,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_33703,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Methanocaldococcus jannaschii DSM 2661,L77117,74,30,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_33712,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanocaldococcaceae,Methanocaldococcus
+Haloferax volcanii,K00268,77,33,44,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_A_33767,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Methanococcus maripaludis,--,74,34,40,No,0,tRNA,0,(()()()),(()()()),--,No,RFAM,--,RFAM_t_A_34508,--,Yes,Archaea,Methanobacteriota_A,Methanococci,Methanococcales,Methanococcaceae,Methanococcus
+Pyrobaculum arsenaticum DSM 13514,--,85,45,40,No,0,tRNA,0,(()()()),(()()()),--,No,RFAM,--,RFAM_t_A_34605,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermoproteales,Thermoproteaceae,Pyrobaculum
+Pyrobaculum arsenaticum DSM 13514,--,72,32,40,No,0,tRNA,0,(()()()),(()()()),--,No,RFAM,--,RFAM_t_A_34606,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermoproteales,Thermoproteaceae,Pyrobaculum
+Sulfolobus islandicus L.S.2.15,--,74,34,40,No,0,tRNA,0,(()()()),(()()()),--,No,RFAM,--,RFAM_t_A_34607,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Sulfolobaceae,Saccharolobus
+Sulfolobus islandicus L.S.2.15,--,74,34,40,No,0,tRNA,0,(()()()),(()()()),--,No,RFAM,--,RFAM_t_A_34608,--,Yes,Archaea,Thermoproteota,Thermoproteia,Sulfolobales,Sulfolobaceae,Saccharolobus
+Haloferax volcanii,--,74,34,40,No,0,tRNA,0,(()()()),(()()()),--,No,RFAM,--,RFAM_t_A_34744,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Methanospirillum hungatei,--,73,33,40,No,0,tRNA,0,(()()()),(()()()),--,No,RFAM,--,RFAM_t_A_34811,--,Yes,Archaea,Halobacteriota,Methanomicrobia,Methanomicrobiales,Methanospirillaceae,Methanospirillum
+Haloferax volcanii,--,77,37,40,No,0,tRNA,0,(()()()),(()()()),--,No,RFAM,--,RFAM_t_A_35005,--,Yes,Archaea,Halobacteriota,Halobacteria,Halobacteriales,Haloferacaceae,Haloferax
+Thermofilum pendens,--,76,36,40,No,0,tRNA,0,(()()()),(()()()),--,No,RFAM,--,RFAM_t_A_35127,--,Yes,Archaea,Thermoproteota,Thermoproteia,Thermofilales,Thermofilaceae,Thermofilum_C

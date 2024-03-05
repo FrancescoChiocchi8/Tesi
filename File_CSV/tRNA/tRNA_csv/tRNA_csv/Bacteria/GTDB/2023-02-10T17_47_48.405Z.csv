@@ -1,0 +1,319 @@
+Organism name,Accession number,Length,Number of decoupled nucleotides,Number of weak bonds,Is Pseudoknotted,Pseudoknot order,Rna Type,Genus,Core,Core plus,Shape,Is Validated,Reference database,Description,Benchmark ID,Reference,Taxonomy.GTDB.Classified,Taxonomy.GTDB.domain,Taxonomy.GTDB.phylum,Taxonomy.GTDB.class,Taxonomy.GTDB.order,Taxonomy.GTDB.family,Taxonomy.GTDB.genus
+Bradyrhizobium japonicum,AB100740,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_57,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AB100741,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_58,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium elkanii,AB100742,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_59,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AB100743,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_60,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium elkanii,AB100744,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_61,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium elkanii,AB100745,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_62,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AB100746,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_63,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium elkanii,AB100747,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_64,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium elkanii,AB100748,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_65,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AB100750,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_67,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AB100751,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_68,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AB100752,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_69,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AB100753,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_70,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AB100754,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_71,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AB100755,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_72,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AB100756,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_73,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium elkanii,AB100757,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_74,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AB100758,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_75,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium liaoningense,AB100759,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_76,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AB100760,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_77,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AB269783,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_174,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AB269784,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_175,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AB269785,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_176,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AB278125,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_177,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AB278126,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_178,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AB278127,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_179,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AB278128,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_180,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AB278129,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_181,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Pseudomonas aeruginosa PAO1,AE004091,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_245,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Pseudomonas aeruginosa PAO1,AE004091,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_246,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Pseudomonas aeruginosa PAO1,AE004091,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_247,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Pseudomonas aeruginosa PAO1,AE004091,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_248,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Pseudomonas aeruginosa PAO1,AE004091,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_249,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Rhodopseudomonas palustris,AF184625,76,34,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_754,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Rhodopseudomonas
+Rhodopseudomonas palustris,AF184626,76,34,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_755,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Rhodopseudomonas
+Bradyrhizobium japonicum,AF208503,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_763,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF208504,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_764,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF208505,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_765,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF208506,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_766,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF208507,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_767,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF208508,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_768,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF208509,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_769,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium elkanii,AF208510,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_770,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF208511,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_771,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium elkanii,AF208512,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_772,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium liaoningense,AF208513,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_773,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF208514,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_774,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium elkanii,AF208516,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_775,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF208517,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_776,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium elkanii,AF208518,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_777,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium elkanii,AF293373,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_827,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium elkanii,AF293374,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_828,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium elkanii,AF293376,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_829,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF293377,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_830,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF293378,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_831,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium elkanii,AF293379,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_832,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium elkanii,AF293380,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_833,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF293381,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_834,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF293382,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_835,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium denitrificans,AF338159,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_860,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Afipia felis,AF338177,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_877,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Afipia
+Rhodopseudomonas palustris,AF338178,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_878,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Rhodopseudomonas
+Bradyrhizobium japonicum,AF338648,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_880,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF338649,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_881,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF338827,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_882,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF338829,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_884,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium elkanii,AF338830,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_885,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF338833,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_888,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF338834,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_889,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF338835,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_890,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium elkanii,AF338836,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_891,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF338837,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_892,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF338838,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_893,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF338839,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_894,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF338840,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_895,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF338841,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_896,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF338842,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_897,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF338843,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_898,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF338844,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_899,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF338845,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_900,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium liaoningense,AF338846,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_901,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium liaoningense,AF338847,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_902,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF338848,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_903,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF338849,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_904,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF338850,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_905,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF338852,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_907,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF338853,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_908,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,AF338866,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_920,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium elkanii,AF338867,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_921,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium elkanii,AF338868,77,35,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_922,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Vibrio tubiashii,AF413025,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_1046,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Vibrionaceae,Vibrio
+Magnetospirillum gryphiswaldense,AM085146,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_1646,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Magnetospirillaceae,Magnetospirillum
+Bradyrhizobium sp. Tv2a-2,AY187818,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_1925,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium yuanmingense,AY599094,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_2308,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium yuanmingense,AY599095,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_2309,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+uncultured Bacteroidetes bacterium,AY933581,78,38,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_2459,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933582,78,38,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_2460,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933589,78,38,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_2463,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933590,76,36,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_2464,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933592,77,37,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_2465,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933595,76,36,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_2466,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933597,76,36,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_2467,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933602,76,36,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_2468,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933603,78,38,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_2469,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933606,78,38,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_2471,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933610,77,37,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_2473,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933627,77,37,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_2479,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933628,78,38,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_2480,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Thiotrichales bacterium,AY934282,76,36,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_2853,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934284,76,36,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_2854,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934285,76,36,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_2855,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934364,76,36,40,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_2914,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934369,76,36,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_2919,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934370,76,36,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_2920,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934377,76,36,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_2927,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934380,76,36,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_2930,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934388,76,36,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_2937,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+Bradyrhizobium elkanii,U35000,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_3081,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Bradyrhizobium japonicum,U69638,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_3082,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Rhodopseudomonas palustris CGA009,BX572607,76,34,42,No,0,tRNA,0,(()()()),(()(())()),--,No,CRW,--,CRW_t_B_3129,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Rhodopseudomonas
+Rhodopseudomonas palustris CGA009,BX572608,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_3130,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Rhodopseudomonas
+Lactobacillus sakei subsp. sakei 23K,CR936503,76,38,38,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_3911,--,Yes,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Latilactobacillus
+Candidatus Liberibacter asiaticus,U61359,76,42,34,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_4371,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales_A,Rhizobiaceae_A,Liberibacter
+Burkholderia cepacia,L28151,76,38,38,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_4394,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia
+Burkholderia cepacia,L28152,76,38,38,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_4395,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia
+Burkholderia cepacia,L28154,76,38,38,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_4396,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,Burkholderia
+Coxiella burnetii,X78986,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_4508,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Coxiellales,Coxiellaceae,Coxiella
+Bradyrhizobium japonicum,Z35330,77,35,42,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_B_4549,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Pseudomonas aeruginosa PAO1,AE004091,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_4633,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Thermus thermophilus HB27,AE017221,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_4784,--,Yes,Bacteria,Deinococcota,Deinococci,Deinococcales,Thermaceae,Thermus
+Pseudomonas aeruginosa PAO1,AE004091,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_5894,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Pseudomonas aeruginosa PAO1,AE004091,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_5895,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Pseudomonas aeruginosa PAO1,AE004091,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_5896,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Thermus thermophilus HB27,AE017221,77,37,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_6052,--,Yes,Bacteria,Deinococcota,Deinococci,Deinococcales,Thermaceae,Thermus
+Mycoplasma hyopneumoniae J,AE017243,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_6062,--,Yes,Bacteria,Firmicutes,Bacilli,Mycoplasmatales,Metamycoplasmataceae,Mesomycoplasma
+Geobacillus kaustophilus HTA426,BA000043,76,46,30,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_6495,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Anoxybacillaceae,Geobacillus
+Geobacillus kaustophilus HTA426,BA000043,76,36,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_6496,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Anoxybacillaceae,Geobacillus
+Moorella thermoacetica ATCC 39073,CP000232,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_6699,--,Yes,Bacteria,Firmicutes_B,Moorellia,Moorellales,Moorellaceae,Moorella
+Moorella thermoacetica ATCC 39073,CP000232,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_7643,--,Yes,Bacteria,Firmicutes_B,Moorellia,Moorellales,Moorellaceae,Moorella
+Pseudomonas aeruginosa PAO1,AE004091,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_8073,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Pseudomonas aeruginosa PAO1,AE004091,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_8074,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Pseudomonas aeruginosa PAO1,AE004091,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_8075,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Erwinia amylovora,AF290419,77,41,36,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_8393,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Erwinia
+Francisella tularensis subsp. tularensis SCHU S4,AJ749949,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_8518,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Francisellales,Francisellaceae,Francisella
+Vibrio fluvialis,AY245214,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_8782,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Vibrionaceae,Vibrio
+Vibrio fluvialis,AY245218,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_8784,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Vibrionaceae,Vibrio
+Corynebacterium glutamicum ATCC 13032,BA000036,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_8956,--,Yes,Bacteria,Actinobacteriota,Actinomycetia,Mycobacteriales,Mycobacteriaceae,Corynebacterium
+Pseudomonas aeruginosa PAO1,AE004091,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_11177,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Pseudomonas aeruginosa PAO1,AE004091,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_11178,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Pseudomonas aeruginosa PAO1,AE004091,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_11179,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Shigella flexneri 2a str. 2457T,AE014073,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_11304,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia
+Shigella flexneri 2a str. 2457T,AE014073,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_11305,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia
+Shigella flexneri 2a str. 2457T,AE014073,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_11306,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia
+Shigella flexneri 2a str. 2457T,AE014073,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_11307,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia
+Thermus thermophilus HB27,AE017221,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_11491,--,Yes,Bacteria,Deinococcota,Deinococci,Deinococcales,Thermaceae,Thermus
+Thermus thermophilus HB27,AE017221,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_11492,--,Yes,Bacteria,Deinococcota,Deinococci,Deinococcales,Thermaceae,Thermus
+Buchnera aphidicola str. APS (Acyrthosiphon pisum),BA000003,76,36,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_14772,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales_A,Enterobacteriaceae_A,Buchnera
+Acholeplasma laidlawii,D13259,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_15674,--,Yes,Bacteria,Firmicutes,Bacilli,Acholeplasmatales,Acholeplasmataceae,Acholeplasma
+Pseudomonas aeruginosa PAO1,AE004091,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_15691,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Pseudomonas aeruginosa PAO1,AE004091,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_15692,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Pseudomonas aeruginosa PAO1,AE004091,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_15694,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Neisseria gonorrhoeae,AF223396,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_16199,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Neisseriaceae,Neisseria
+Neisseria gonorrhoeae,AF223397,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_16200,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Neisseriaceae,Neisseria
+Neisseria gonorrhoeae,AF223398,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_16201,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Neisseriaceae,Neisseria
+Neisseria gonorrhoeae,AF223399,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_16202,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Neisseriaceae,Neisseria
+Bradyrhizobium denitrificans,AF338161,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_16301,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Xanthobacteraceae,Bradyrhizobium
+Vibrio tubiashii,AF413025,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_16507,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Vibrionaceae,Vibrio
+Vibrio parahaemolyticus,AY245224,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17386,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Vibrionaceae,Vibrio
+Borrelia miyamotoi,AY531879,78,36,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17574,--,Yes,Bacteria,Spirochaetota,Spirochaetia,Borreliales,Borreliaceae,Borrelia
+Candidatus Phytoplasma solani,AY739653,76,34,42,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_B_17741,--,Yes,Bacteria,Firmicutes,Bacilli,Acholeplasmatales,Acholeplasmataceae,Phytoplasma
+Candidatus Phytoplasma solani,AY739654,76,34,42,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_B_17742,--,Yes,Bacteria,Firmicutes,Bacilli,Acholeplasmatales,Acholeplasmataceae,Phytoplasma
+Bartonella quintana,AY763120,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17756,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales_A,Rhizobiaceae_A,Bartonella
+Bartonella quintana,AY763121,76,34,42,No,0,tRNA,0,()()(),()()(),--,No,CRW,--,CRW_t_B_17757,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales_A,Rhizobiaceae_A,Bartonella
+uncultured Bacteroidetes bacterium,AY933581,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17865,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933584,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17867,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933585,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17868,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933587,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17870,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933588,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17871,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933589,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17872,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933591,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17873,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933593,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17875,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933594,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17876,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933603,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17882,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933606,77,35,42,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_B_17885,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933608,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17887,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933616,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17895,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933617,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17896,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933618,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17897,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933619,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17898,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933621,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17900,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933622,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17901,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933623,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17902,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933625,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17904,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933630,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17909,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured Bacteroidetes bacterium,AY933632,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_17911,--,Yes,Bacteria,Bacteroidota,Bacteroidia,NS11-12g,UBA955,UBA955
+uncultured delta proteobacterium,AY934014,77,37,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18283,--,Yes,Bacteria,Desulfobacterota,Desulfobulbia,Desulfobulbales,Desulfurivibrionaceae,UBA2262
+uncultured Thiotrichales bacterium,AY934149,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18394,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934154,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18399,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934202,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18447,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934203,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18448,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934204,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18449,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934205,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18450,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934206,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18451,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934207,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18452,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934208,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18453,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934209,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18454,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934210,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18455,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934211,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18456,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934212,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18457,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934213,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18458,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934214,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18459,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934215,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18460,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934216,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18461,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934217,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18462,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934218,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18463,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934219,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18464,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934220,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18465,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934221,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18466,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934222,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18467,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934223,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18468,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934224,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18469,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934225,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18470,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934226,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18471,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934227,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18472,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934228,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18473,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934229,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18474,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934230,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18475,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934231,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18476,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934232,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18477,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934233,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18478,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934234,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18479,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934235,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18480,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934236,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18481,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934237,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18482,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934238,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18483,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934239,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18484,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934246,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18491,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934247,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18492,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934251,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18496,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934254,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18499,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934255,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18500,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934256,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18501,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934258,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18503,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934259,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18504,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934260,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18505,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934262,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18507,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934263,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18508,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934264,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18509,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934269,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18514,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934271,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18516,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934273,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18518,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934274,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18519,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934279,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18524,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934280,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18525,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934282,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18527,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934284,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18528,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934285,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18529,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934369,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18592,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934370,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18593,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934377,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18600,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934380,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18603,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+uncultured Thiotrichales bacterium,AY934388,78,36,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18611,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,CAIQBE01,CAIQBE01,CAIQBE01
+Geobacillus kaustophilus HTA426,BA000043,77,41,36,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_18721,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Anoxybacillaceae,Geobacillus
+Candidatus Phytoplasma solani,DQ464999,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_19717,--,Yes,Bacteria,Firmicutes,Bacilli,Acholeplasmatales,Acholeplasmataceae,Phytoplasma
+Candidatus Liberibacter asiaticus,U61359,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_19885,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales_A,Rhizobiaceae_A,Liberibacter
+Candidatus Phytoplasma aurantifolia,U15442,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_19894,--,Yes,Bacteria,Firmicutes,Bacilli,Acholeplasmatales,Acholeplasmataceae,Phytoplasma
+Pseudomonas aeruginosa,L28148,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_19912,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Pseudomonas aeruginosa,L28149,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_19913,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Pseudomonas aeruginosa,L28150,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_19914,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Pseudomonas mendocina,L28159,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_19920,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas_E
+Pseudomonas mendocina,L28160,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_19921,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas_E
+Pseudomonas mendocina,L28161,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_19922,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas_E
+Pseudomonas mendocina,L28162,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_19923,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas_E
+Coxiella burnetii,X78986,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_20046,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Coxiellales,Coxiellaceae,Coxiella
+Pseudomonas aeruginosa PAO1,AE004091,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_20273,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Geobacillus kaustophilus HTA426,BA000043,76,36,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_20948,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Anoxybacillaceae,Geobacillus
+Moorella thermoacetica ATCC 39073,CP000232,76,34,42,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_B_21177,--,Yes,Bacteria,Firmicutes_B,Moorellia,Moorellales,Moorellaceae,Moorella
+Xylella fastidiosa 9a5c,AE003849,77,39,38,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_B_22048,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xylella
+Pseudomonas aeruginosa PAO1,AE004091,77,39,38,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_B_22050,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Xylella fastidiosa Temecula1,AE009442,77,39,38,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_B_22084,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xylella
+Porphyromonas gingivalis W83,AE015924,77,37,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_22162,--,Yes,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Porphyromonadaceae,Porphyromonas
+Pseudomonas syringae pv. tomato str. DC3000,AE016853,77,39,38,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_22206,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas_E
+Bacillus anthracis str. 'Ames Ancestor',AE017334,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_22281,--,Yes,Bacteria,Firmicutes,Bacilli,Bacillales,Bacillaceae_G,Bacillus_A
+Francisella tularensis subsp. holarctica LVS,AM233362,77,37,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_22521,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Francisellales,Francisellaceae,Francisella
+Xanthomonas oryzae pv. oryzae MAFF 311018,AP008229,76,38,38,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_22619,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Xanthomonadales,Xanthomonadaceae,Xanthomonas
+Buchnera aphidicola str. APS (Acyrthosiphon pisum),BA000003,77,39,38,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_22681,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales_A,Enterobacteriaceae_A,Buchnera
+Buchnera aphidicola str. APS (Acyrthosiphon pisum),BA000003,77,39,38,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_22682,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales_A,Enterobacteriaceae_A,Buchnera
+Corynebacterium glutamicum ATCC 13032,BA000036,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_22744,--,Yes,Bacteria,Actinobacteriota,Actinomycetia,Mycobacteriales,Mycobacteriaceae,Corynebacterium
+Rhodopirellula baltica SH 1,BX294138,77,39,38,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_22778,--,Yes,Bacteria,Planctomycetota,Planctomycetia,Pirellulales,Pirellulaceae,Rhodopirellula
+Nitrosomonas europaea ATCC 19718,BX321856,77,39,38,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_22782,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Nitrosomonadaceae,Nitrosomonas
+Corynebacterium glutamicum ATCC 13032,BX927154,77,39,38,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_22806,--,Yes,Bacteria,Actinobacteriota,Actinomycetia,Mycobacteriales,Mycobacteriaceae,Corynebacterium
+Pseudomonas syringae pv. syringae B728a,CP000075,77,39,38,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_22920,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas_E
+Psychrobacter arcticus 273-4,CP000082,77,39,38,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_22929,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter
+Dechloromonas aromatica RCB,CP000089,77,39,38,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_22952,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Rhodocyclaceae,Azonexus
+Nitrosospira multiformis ATCC 25196,CP000103,77,39,38,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_22971,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Nitrosomonadaceae,Nitrosospira
+Thiobacillus denitrificans ATCC 25259,CP000116,77,39,38,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_22993,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Thiobacillaceae,Thiobacillus
+Polaromonas sp. JS666,CP000316,77,39,38,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_23171,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,Polaromonas
+Psychrobacter cryohalolentis K5,CP000323,77,39,38,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_23176,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Psychrobacter
+Nitrosomonas eutropha C91,CP000450,77,39,38,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_23308,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Nitrosomonadaceae,Nitrosomonas
+Halorhodospira halophila SL1,CP000544,76,38,38,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_23423,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Nitrococcales,Halorhodospiraceae,Halorhodospira
+Legionella pneumophila str. Paris,CR628336,77,39,38,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_23466,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella
+Legionella pneumophila str. Lens,CR628337,77,39,38,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_23469,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Legionellales,Legionellaceae,Legionella
+Ehrlichia ruminantium str. Gardel,CR925677,78,38,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_23474,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Anaplasmataceae,Ehrlichia
+Ehrlichia ruminantium str. Welgevonden,CR925678,78,38,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_23475,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Anaplasmataceae,Ehrlichia
+Gramella forsetii KT0803,CU207366,77,37,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_23507,--,Yes,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Gramella
+Thermus thermophilus HB27,AE017221,76,36,40,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_B_24448,--,Yes,Bacteria,Deinococcota,Deinococci,Deinococcales,Thermaceae,Thermus
+Francisella tularensis subsp. tularensis SCHU S4,AJ749949,76,34,42,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_B_26662,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Francisellales,Francisellaceae,Francisella
+Corynebacterium glutamicum ATCC 13032,BA000036,76,34,42,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_B_29948,--,Yes,Bacteria,Actinobacteriota,Actinomycetia,Mycobacteriales,Mycobacteriaceae,Corynebacterium
+Pseudomonas aeruginosa PAO1,AE004091,77,35,42,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_B_31495,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Pseudomonas aeruginosa PAO1,AE004091,77,35,42,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_B_31496,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Thermus thermophilus HB27,AE017221,77,37,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_31649,--,Yes,Bacteria,Deinococcota,Deinococci,Deinococcales,Thermaceae,Thermus
+Francisella tularensis subsp. tularensis SCHU S4,AJ749949,77,35,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_31746,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Francisellales,Francisellaceae,Francisella
+Buchnera aphidicola str. APS (Acyrthosiphon pisum),BA000003,77,37,40,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_31966,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales_A,Enterobacteriaceae_A,Buchnera
+Moorella thermoacetica ATCC 39073,CP000232,78,36,42,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_B_32241,--,Yes,Bacteria,Firmicutes_B,Moorellia,Moorellales,Moorellaceae,Moorella
+Pseudomonas aeruginosa PAO1,AE004091,76,34,42,No,0,tRNA,0,(),(),--,No,CRW,--,CRW_t_B_32870,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudomonadaceae,Pseudomonas
+Thermus thermophilus HB27,AE017221,76,34,42,No,0,tRNA,0,--,--,--,No,CRW,--,CRW_t_B_32951,--,Yes,Bacteria,Deinococcota,Deinococci,Deinococcales,Thermaceae,Thermus
+Francisella tularensis subsp. tularensis SCHU S4,AJ749949,76,34,42,No,0,tRNA,0,()(),()(),--,No,CRW,--,CRW_t_B_33013,--,Yes,Bacteria,Proteobacteria,Gammaproteobacteria,Francisellales,Francisellaceae,Francisella
+Ehrlichia ruminantium str. Welgevonden,CR925678,76,34,42,No,0,tRNA,0,(()()()),(()()()),--,No,CRW,--,CRW_t_B_33432,--,Yes,Bacteria,Proteobacteria,Alphaproteobacteria,Rickettsiales,Anaplasmataceae,Ehrlichia
